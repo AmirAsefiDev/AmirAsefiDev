@@ -5,7 +5,7 @@ now programming is my hobby and i like to work on team to build project's togeth
 
 Skills: C# / SQL SERVER / GIT 
 
-- 🔭 I’m currently working on .Net Application such as Windows
+- 🔭 I’m currently working on .Net Application such as Web & Windows
 - 🌱 I’m currently learning to be better person 
 - 💬 Ask me about Personal development content 
 - 📫 How to reach me: https://t.me/amir00hk 
