@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amir
-#### C# Developer 
+#### .Net Developer 
  I'm interested in Solveig problems Specially in programming since i was a child ,I really wanted to learn about Computer science 
 now programming is my hobby and i like to work on team to build project's together 
 
