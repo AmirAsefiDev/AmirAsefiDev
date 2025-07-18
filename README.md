@@ -3,7 +3,7 @@
  I'm interested in Solveig problems Specially in programming since i was a child ,I really wanted to learn about Computer science 
 now programming is my hobby and i like to work on team to build project's together 
 
-Skills: C# / Sql Server / Asp.NetCore / Git
+Skills: C# / Sql Server / Asp.NetCore WebAPI/MVC / CleanArchitecture / EFCore / Dapper / Git
 
 - 🔭 I’m currently working on .Net Application such as Web & Windows
 - 🌱 I’m currently learning to be better person 
