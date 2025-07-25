@@ -11,7 +11,7 @@ Skills: C# / Sql Server / Asp.NetCore WebAPI & MVC / CleanArchitecture / EFCore 
 - 📫 How to reach me: https://t.me/amir00hk 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirAsefiDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/amir00hk)  
+//[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirAsefiDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/amir00hk)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAsefiDev)](https://github.com/anuraghazra/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAsefiDev)](https://github.com/anuraghazra/github-readme-stats)
 
